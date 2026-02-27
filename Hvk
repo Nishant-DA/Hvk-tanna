@@ -1155,7 +1155,7 @@ footer{background:#0d1630;padding:clamp(36px,6vw,60px) 0 24px;}
 </footer>
 
 <!-- ── WHATSAPP FLOAT ──────────────── -->
-<a href="https://wa.me/912221023315?text=Hello%2C+I+want+to+enquire+about+admissions+at+HVK+Tanna+Jr.+College+of+Commerce." class="wa" target="_blank" title="Chat on WhatsApp">💬</a>
+<a href="https://wa.me/918108657177?text=Hello%2C+I+want+to+enquire+about+admissions+at+HVK+Tanna+Jr.+College+of+Commerce." class="wa" target="_blank" title="Chat on WhatsApp">💬</a>
 
 <!-- ═══════════ ADMISSION MODAL ════════════ -->
 <div class="modal-bg" id="modal" onclick="bgClose(event)">
